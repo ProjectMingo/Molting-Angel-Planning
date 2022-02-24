@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T04:44:20.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.62" version="16.6.3" etag="nxUeQkRZbCNWsI7KGX0H" type="github"><diagram id="l748elg_F9JeAbZ986na">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-24T05:29:56.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.62" etag="XC2J9FkDvgAH4rgIq-SC" version="16.6.3" type="github">
+  <diagram id="l748elg_F9JeAbZ986na" name="Page-1">
+    <mxGraphModel dx="1896" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-2" target="FKLfcPU-mqO9bX3kUt1o-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-2" value="Uncle has to hide evidence" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-3" target="FKLfcPU-mqO9bX3kUt1o-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-3" value="Descision" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-6" target="FKLfcPU-mqO9bX3kUt1o-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-6" value="Burns down lab from outside, runs away" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="770" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-8" target="FKLfcPU-mqO9bX3kUt1o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-8" value="Keeps Estel in the pod to erase her memories" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-13" target="FKLfcPU-mqO9bX3kUt1o-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-13" value="Gasoline on the ground" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-15" value="Uncle disappears from the scene" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="930" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-17" target="FKLfcPU-mqO9bX3kUt1o-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-17" value="Sin is on his walk, the lab is on fire" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-18" target="FKLfcPU-mqO9bX3kUt1o-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-18" value="Descision" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-20" target="FKLfcPU-mqO9bX3kUt1o-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-20" target="FKLfcPU-mqO9bX3kUt1o-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-20" value="He saves the pod, with Estel inside (fire resistant)" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-23" target="FKLfcPU-mqO9bX3kUt1o-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-23" value="Brings pod to his house" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-29" target="FKLfcPU-mqO9bX3kUt1o-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-29" target="FKLfcPU-mqO9bX3kUt1o-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-29" value="1 week later, Sin opens the pod for the first time" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-31" value="Smashes up computer with a crowbar, and hard drive" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="620" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-37" target="FKLfcPU-mqO9bX3kUt1o-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-37" value="Estel falls out of the pod and is already hostile" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-38" target="FKLfcPU-mqO9bX3kUt1o-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="309.7619047619048" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-38" value="Descision" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-41" target="FKLfcPU-mqO9bX3kUt1o-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-41" value="She attacks Sin" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="279.7619047619048" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-46" target="FKLfcPU-mqO9bX3kUt1o-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-46" target="FKLfcPU-mqO9bX3kUt1o-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-46" value="Sin grabs Estel&#39;s head and slam it to the ground" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="770" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-47" target="FKLfcPU-mqO9bX3kUt1o-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-47" value="She fails, her head hurts" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FKLfcPU-mqO9bX3kUt1o-51" target="FKLfcPU-mqO9bX3kUt1o-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-51" value="Sin keeps her in the pod, it only opens from the outside" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="920" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKLfcPU-mqO9bX3kUt1o-53" value="Estel tries to get out" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
